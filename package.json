@@ -1,0 +1,23 @@
+{
+    "name": "unittest",
+    "version": "1.0.0",
+    "description": "\"# unit-testing-jest\"",
+    "main": "cloneArray.js",
+    "scripts": {
+        "test": "jest --coverage"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/tdolphus/unit-testing-jest.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/tdolphus/unit-testing-jest/issues"
+    },
+    "homepage": "https://github.com/tdolphus/unit-testing-jest#readme",
+    "devDependencies": {
+        "jest": "^26.6.3"
+    }
+}
